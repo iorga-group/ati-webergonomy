@@ -1,0 +1,24 @@
+.step-chapter {
+    width: 700px;
+}
+.step-chapter h2 {
+    text-transform: uppercase;
+}
+
+.div-chapter {
+    width: 800px;
+    height: 1000px;
+    position: absolute;
+    top: -2000px;
+}
+
+.titre {
+    font-size: 78pt;
+    font-family: 'Lato';
+    line-height: 1.2;
+    color: #FFF;
+}
+
+.sous-titre {
+    padding-left: 160px;
+}
